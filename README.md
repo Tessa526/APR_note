@@ -1,4 +1,4 @@
-# APR_note
+# APR_practice
 Learning APR for digital IC backend design note
 
 ## 內容簡介
