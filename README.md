@@ -2,7 +2,7 @@
 Learning APR for digital IC backend design note
 
 ## 內容簡介
--APR flow介紹與概念
+-icc2 語法整理
 
 -Floorplanning 實作
 
